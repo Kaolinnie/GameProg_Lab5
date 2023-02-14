@@ -556,16 +556,16 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 0
-    functionName: 
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 0
     functionName: ArmController::ReleaseBall
     data: 
     objectReferenceParameter: {fileID: 102900000, guid: 2952dd51702415c46a7fb7b361efbbf2, type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.8666667
+    functionName: ReleaseBall
+    data: 
+    objectReferenceParameter: {fileID: 11500000, guid: 1fa37acddabcad847a1c4c45eb77210b, type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
